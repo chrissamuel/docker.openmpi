@@ -2,7 +2,7 @@
 #
 
 FROM ubuntu:14.04
-MAINTAINER Ole Weidner <ole.weidner@ed.ac.uk>
+MAINTAINER Chris Samuel <chris@csamuel.org>
 
 ENV DEBIAN_FRONTEND noninteractive
 
